@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx ./run.ts",
+    "dev2": "vite",
     "build": "vue-tsc && vite build",
     "preview": "vite preview"
   },
